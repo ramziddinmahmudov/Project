@@ -1,0 +1,14 @@
+{
+  "../components/navbar/index.js -> ./navbar": {
+    "id": "../components/navbar/index.js -> ./navbar",
+    "files": [
+      "static/chunks/src_components_navbar_navbar_jsx.js"
+    ]
+  },
+  "../components/price/index.js -> ./price": {
+    "id": "../components/price/index.js -> ./price",
+    "files": [
+      "static/chunks/src_components_price_price_jsx.js"
+    ]
+  }
+}
