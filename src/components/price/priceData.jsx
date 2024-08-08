@@ -93,8 +93,36 @@ const cardData = [
 
 const PriceData = () => {
   return (
-     <div data-aos="fade-up" className="card-container cursor-pointer">
+     <div data-aos="fade-up" className="card-container mySwiper wrapper cursor-pointer">
+     <Swiper
+       spaceCenter={50}
+       slidesPerView={4}
+       slidesPerGroup={1}
+       loopFillGroupWithBlank={true}
+       breakpoints={{
+         "@0.00": {
+           slidesPerView: 1,
+           spaceBetween: 0.1,
+         },
+         "@0.75": {
+           slidesPerView: 2,
+           spaceBetween: 0.2,
+         },
+         "@1.00": {
+           slidesPerView: 3,
+           spaceBetween: 0.3,
+         },
+         "@1.50": {
+           slidesPerView: 4,
+           spaceBetween: 0.4,
+         },
+       }}
+       navigation={true}
+       modules={[Pagination, Navigation]}
+       id="swip"
+     >
       {cardData.map((card, index) => (
+        <SwiperSlide>
           <div key={index} className={index === 3 ? "card" : "card"} id={index === 3 && "card-4"}>
           <div className="card-title">
             <div className={index !== 3 ? "bright1" : "bright1 bringht4"}></div>
@@ -130,7 +158,10 @@ const PriceData = () => {
             </div>
             </div>
           </div>
+        </SwiperSlide>
       ))}
+     </Swiper>
+     
    </div>
   )
 }
