@@ -112,7 +112,7 @@ const PriceData = () => {
            slidesPerView: 3,
            spaceBetween: 0.3,
          },
-         "@1.50": {
+         "@1.75": {
            slidesPerView: 4,
            spaceBetween: 0.4,
          },
