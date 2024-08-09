@@ -1134,7 +1134,6 @@ box-shadow: inset -4px  4px  4px #142540;
 
 .brightShadow {
   position: absolute;
-  width: 550px;
   height: 200px;
   background-color: #0050ff;
   filter: blur(150px);
@@ -1166,7 +1165,6 @@ box-shadow: inset -4px  4px  4px #142540;
   }
   .brightShadow {
        position: absolute;
-       width: 350px;
        margin-top: -300px;
        margin-left: 70px;
   
@@ -1214,7 +1212,6 @@ box-shadow: inset -4px  4px  4px #142540;
   }
   .brightShadow {
        position: absolute;
-       width: 200px;
        margin-top: -300px;
        margin-left: 20px;
   }
