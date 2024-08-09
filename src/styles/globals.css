@@ -478,6 +478,9 @@ body{
   background-color: #000B1D;
 }
 
+.main__left{
+  margin-top: 250px;
+}
 .main__left,
 .main__right {
 
@@ -609,9 +612,7 @@ body{
    text-align: center;
  }
  .main__right{
-   margin-top: 20px;
-   height: 200px;
-   width: 10px;
+   margin-top: 150px;
  }
 }
 @media screen and (max-width: 768px) {
