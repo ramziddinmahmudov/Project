@@ -530,7 +530,6 @@ body{
 }
 .main__image {
   max-width: 820px;
-  width: 60px;
   height: auto;
   z-index: 9;
   position: relative;
