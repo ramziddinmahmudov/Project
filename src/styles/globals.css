@@ -530,6 +530,7 @@ body{
 }
 .main__image {
   max-width: 820px;
+  width: 60px;
   height: auto;
   z-index: 9;
   position: relative;
@@ -545,7 +546,7 @@ body{
   }
 
   .mezzardBold{
-    margin-top: 80px;
+    margin-top: 40px;
   }
  }
 
