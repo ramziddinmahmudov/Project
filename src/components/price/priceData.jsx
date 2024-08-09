@@ -58,8 +58,6 @@ const cardData = [
         "O’quvchilar orasida Chat guruh",
          "Kurator bilan savol javob ",
          "Ofisga kelib o’rganish imkoniyati",
-         "Traderlar bilan fikr almashish ",
-         "Dars jarayonida real hisobda savdo qilishni o’rganish",
        ],
        button: "ULANISH",
        link: "https://t.me/ARASHOV_TRADER"
@@ -81,9 +79,6 @@ const cardData = [
          "Kurator bilan savol javob ",
          "Ofisga kelib o’rganish imkoniyati",
          "Traderlar bilan fikr almashish ",
-         "Dars jarayonida real hisobda savdo qilishni o’rganish",
-         "DICO, IDO, P2P arbitraj",
-         "Shaxsan o’zim bilan savdo qilasiz",
        ],
        button: "ULANISH",
        link: "https://t.me/ARASHOV_TRADER"
