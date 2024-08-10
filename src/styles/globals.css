@@ -791,8 +791,8 @@ input {
     top: -8px !important;
   }
   #swip {
-    max-width: 95vw !important;
-    padding-right: 35px !important;
+    max-width: 325px !important;
+    padding-right: 10px !important;
   }
 }
 
