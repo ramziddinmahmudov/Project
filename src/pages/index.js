@@ -78,9 +78,7 @@ function Index() {
                   <i className="fa-solid fa-user bg-black text-white rounded-md px-[8px] py-[8px]"></i>
                   <input
                     autoComplete="off"
-                    className={
-                      "px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
-                    }
+                    className="qildim px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
                     type="text"
                     name="fullName"
                     placeholder="Ism Familiya"
@@ -90,9 +88,8 @@ function Index() {
                   <i className="fa-solid fa-user bg-black text-white rounded-md px-[8px] py-[8px]"></i>
                   <input
                     autoComplete="off"
-                    className={
-                      "px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
-                    }
+                    className=
+                     " qildim px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
                     type="email"
                     name="email"
                     placeholder="Email"
@@ -102,9 +99,9 @@ function Index() {
                   <i className="fa-solid fa-user bg-black text-white rounded-md px-[8px] py-[8px]"></i>
                   <input
                     autoComplete="off"
-                    className={
-                      "px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
-                    }
+                    className=
+                      "qildim px-3 w-[320px] py-2 bg-[#FFFFFF] text-gray-900 mezzardBold form-input outline-0 rounded-r-xl"
+                    
                     type="password"
                     name="password"
                     placeholder="password"

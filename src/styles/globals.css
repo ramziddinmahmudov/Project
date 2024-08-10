@@ -791,7 +791,7 @@ input {
     top: -8px !important;
   }
   #swip {
-    max-width: 90vw !important;
+    max-width: 95vw !important;
     padding-right: 35px !important;
   }
 }
@@ -1421,5 +1421,8 @@ box-shadow: inset -4px  4px  4px #142540;
 }
 
 .gridsss{
-  width: auto;
+  width: 300px;
+}
+.qildim{
+  width: 250px;
 }
