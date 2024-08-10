@@ -4,7 +4,7 @@ import Image from "next/image"
 import logo from "@/assets/images/Logo.png"
 import payme from "@/assets/images/payme.png"
 import bit from "@/assets/images/bit.png"
-import qr from "@/assets/images/qr.jpg"
+import qr from "@/assets/images/qr.png"
 import { useState } from "react"
 
 const Checkout = () => {
