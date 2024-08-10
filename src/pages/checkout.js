@@ -36,11 +36,11 @@ const Checkout = () => {
                         <Image src={qr} className="w-96 item-modal" />
                         <div className="item-modal flex items-center justify-center gap-1.5">
                             <p onClick={(e) => {
-                                navigator.clipboard.writeText(230962400)
+                                navigator.clipboard.writeText(40850997)
                                 e.target.classList.add("text-gray-600")
                                 e.target.textContent = "copied!"
                                 setTimeout(() => {
-                                    e.target.textContent = "Binance Pay ID: 230962400"
+                                    e.target.textContent = "Binance Pay ID: 40850997"
                                 }, 1500)
                             }} className="item-modal cursor-pointer mezzardBold">Binance Pay ID: 40850997</p>
                             <i className="fa-solid cursor-pointer hover:text-gray-500 fa-copy mb-1 text-gray-400 item-modal"></i>
