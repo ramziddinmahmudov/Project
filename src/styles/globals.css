@@ -269,7 +269,7 @@ body{
       font-weight: 600;
  }
  .telegram-contact a{
-      width: 420px;
+      width: 500px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -545,10 +545,6 @@ body{
     right: 0px;
     width: 600px;
     top: 1px;
-  }
-
-  .mezzardBold{
-    margin-top: 40px;
   }
  }
 
