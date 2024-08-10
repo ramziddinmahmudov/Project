@@ -45,7 +45,7 @@ const Checkout = () => {
                             }} className="item-modal cursor-pointer mezzardBold">Binance Pay ID: 230962400</p>
                             <i className="fa-solid cursor-pointer hover:text-gray-500 fa-copy mb-1 text-gray-400 item-modal"></i>
                         </div>
-                        <p className="item-modal flex justify-center items-center text-gray-200 mezzardBold text-lg">Chekni Menejerga yuboring: <a className="mx-2 mezzardBold text-gray-800 text-lg bg-gray-200 py-2 px-4 rounded-lg item-modal" href="https://t.me/ARASHOV_TRADER">Menejer</a></p>
+                        <p className="item-modal flex justify-center items-center text-gray-200 mezzardBold text-lg">Chekni Menejerga yuboring: <a className="mx-2 mezzardBold text-gray-800 text-lg bg-gray-200 py-2 px-4 rounded-lg item-modal" href="https://t.me/ARASHOV_MANAGER" target="blank">Menejer</a></p>
                     </div>
                 </div>}
                 <div className="flex mt-3 mb-32 justify-center items-start px-2 boxshadowed2 py-20 rounded-2xl px-32 w-fit">
