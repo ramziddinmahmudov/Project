@@ -33,7 +33,7 @@ const Checkout = () => {
                     className="absolute top-0 left-0 flex w-full justify-center items-center h-screen">
                     <div className="bg-[#001B44] boxshadowed3 item-modal flex text-gray-200 justify-center items-center relative flex-col gap-5 rounded-2xl py-10 px-20">
                         <i className="fa-solid fa-xmark text-gray-200 text-lg absolute top-2 right-5 cursor-pointer"></i>
-                        <Image src={qr} className="w-52 item-modal" />
+                        <Image src={qr} className="w-96 item-modal" />
                         <div className="item-modal flex items-center justify-center gap-1.5">
                             <p onClick={(e) => {
                                 navigator.clipboard.writeText(230962400)
