@@ -42,7 +42,7 @@ const Checkout = () => {
                                 setTimeout(() => {
                                     e.target.textContent = "Binance Pay ID: 230962400"
                                 }, 1500)
-                            }} className="item-modal cursor-pointer mezzardBold">Binance Pay ID: 230962400</p>
+                            }} className="item-modal cursor-pointer mezzardBold">Binance Pay ID: 40850997</p>
                             <i className="fa-solid cursor-pointer hover:text-gray-500 fa-copy mb-1 text-gray-400 item-modal"></i>
                         </div>
                         <p className="item-modal flex justify-center items-center text-gray-200 mezzardBold text-lg">Chekni Menejerga yuboring: <a className="mx-2 mezzardBold text-gray-800 text-lg bg-gray-200 py-2 px-4 rounded-lg item-modal" href="https://t.me/ARASHOV_MANAGER" target="blank">Menejer</a></p>
