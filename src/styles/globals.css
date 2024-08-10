@@ -464,7 +464,6 @@ body{
 @media screen and (max-width: 750px) {
   .main__left {
     order: 1 !important;
-    margin: 55px 0;
   }
   .competition-image img {
     width: 80%;
@@ -495,7 +494,7 @@ body{
 } 
 .main__left__header{
   max-width: 550px;
-  margin-top: -320px;
+  margin-top: -220px;
   background-color: #000B1D;
 }
 .main__left__header h1 {
